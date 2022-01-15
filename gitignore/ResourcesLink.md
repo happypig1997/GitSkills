@@ -4,3 +4,6 @@
 ```
 touch .gitignore
 ```
+
+find .gitignore file in MacFolder:
+`command` + `shift` + `.`
